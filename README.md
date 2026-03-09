@@ -36,7 +36,7 @@ The dashboard includes:
 - Revenue trends by cohort and period
 
 🔗 **Tableau Public Dashboard:**  
-[View dashboard on Tableau Public](https://public.tableau.com/app/profile/oleksandr.tymoshenko2775/viz/E-commerceCohortPerformanceDasboard/CohortKPIs?publish=yes)
+[View dashboard on Tableau Public](https://public.tableau.com/app/profile/oleksandr.tymoshenko2775/viz/E-commerceCohortPerformanceDasboard/Dashboard2?publish=yes)
 
 ## Outcome
 The results were validated in Google Sheets and visualized in Tableau
